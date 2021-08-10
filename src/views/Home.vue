@@ -1,6 +1,10 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+  <div class="home container align-items: center">
+    <div class="">
+      <div class="btn bg-yellow-600">ye o</div>
+      <img alt="Vue logo" src="../assets/logo-black.png" />
+    </div>
+
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
@@ -16,3 +20,6 @@ export default {
   },
 };
 </script>
+<style>
+
+</style>

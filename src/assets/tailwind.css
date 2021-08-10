@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    @apply px-8 hover:bg-blue-400 py-2 my-4 mb-4 md:mb-0 border border-rili-care-blue hover:text-white  text-rili-care-blue rounded-full;
+}
+
+/*.container-fluid{*/
+/*    @apply justify*/
+/*}*/
