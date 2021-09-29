@@ -9,8 +9,8 @@
             accessible on mobile and online for everyone
           </p>
           <div class="">
-            <button class="btn bg-rili-care-blue text-white">
-              <p>Consult today</p>
+            <button class="btn bg-rili-care-blue whit">
+              <p class="text-white">Consult today</p>
             </button>
           </div>
         </div>
