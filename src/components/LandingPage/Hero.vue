@@ -10,7 +10,7 @@
           </p>
           <div class="">
             <button class="btn bg-rili-care-blue text-white">
-              Consult today
+              <p>Consult today</p>
             </button>
           </div>
         </div>
